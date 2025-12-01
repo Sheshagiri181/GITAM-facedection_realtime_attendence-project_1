@@ -1,0 +1,7 @@
+opencv-python
+numpy==1.23.5
+face-recognition
+pandas
+pillow
+cmake
+datetime
