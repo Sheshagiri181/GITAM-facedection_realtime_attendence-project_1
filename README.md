@@ -1,0 +1,2 @@
+https://github.com/z-mahmud22/Dlib_Windows_Python3.x
+python v 3.10
